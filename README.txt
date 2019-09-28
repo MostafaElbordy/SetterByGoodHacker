@@ -60,7 +60,7 @@ And This Depends On Your Own InterNet Speed
 
 ###########################################################
 
-git clone https://github.com/MostafaElbordy/GoodHackerSetter
+git clone https://github.com/MostafaElbordy/SetterByGoodHacker
 
 chmod +x GoodHacker.sh
 
@@ -88,7 +88,9 @@ cd SetterByGoodHacker
 
 chmod +x GoodHacker.sh
 
-bash GoodHacker.sh
+bash GoodHacker.sh 
+Or
+./GoodHacker.sh
 
 ###########################################################
 
